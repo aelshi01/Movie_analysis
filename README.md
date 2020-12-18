@@ -1,9 +1,9 @@
 # Movie_analysis
 ## Gather Data
 
-**1) The data gathered is the one as suggested by the Feedstock team**
+**1) The data gathered is the one as suggested by the Feedstock team** - file 'Sentiment analysis 2'
 
-**2) Kaggle – imdb dataset in pandas data frame**
+**2) Kaggle – imdb dataset in pandas data frame** - file 'New sentiment analysis'
 
 ## Explore data
 
@@ -44,7 +44,9 @@ To do this I will be doing the following two process on the dataset:
 
 **2)	Vectorisation**
 
-Lastly, for the preprocessing phase I will then perform some feature selection to optimize for performance. 
+**3) GloVe: Global Vectors for Word Representation - this will be used on file 'New sentiment analysis'**
+
+Lastly, for the preprocessing phase I will then perform some feature selection to optimize for performance
 
 
 
