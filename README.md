@@ -44,7 +44,9 @@ To do this I will be doing the following two process on the dataset:
 
 **2)	Vectorisation**
 
-Lastly, for the preprocessing phase I will then perform some feature selection to optimize for performance. 
+**3) GloVe: Global Vectors for Word Representation - this will be used on file 'New sentiment analysis'**
+
+Lastly, for the preprocessing phase I will then perform some feature selection to optimize for performance
 
 
 
