@@ -55,9 +55,7 @@ Another consideration will be the dropout layers, which helps with reducing over
 
 A good method to use is the GridSearchCV function for hyperparameter tuning, which allows you to try multiple values all at once.  Due to time constraints, I have not implemented this at the moment but will do so in the future.
 
-Deploy model
-
-
+## Deploy model
 
 On the cloud, using something like the AI platform offered by google, which makes deploying ML models at a cost-effective and efficient process.
 
