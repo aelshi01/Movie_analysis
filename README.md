@@ -1,9 +1,9 @@
 # Movie_analysis
 ## Gather Data
 
-**1) The data gathered is the one as suggested by the Feedstock team**
+**1) The data gathered is the one as suggested by the Feedstock team** - file 'Sentiment analysis 2'
 
-**2) Kaggle – imdb dataset in pandas data frame**
+**2) Kaggle – imdb dataset in pandas data frame** - file 'New sentiment analysis'
 
 ## Explore data
 
