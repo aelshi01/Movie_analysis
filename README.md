@@ -69,7 +69,7 @@ TensorFlow was developed for production and it provides a solution for model dep
 
 **1)	Export your model for serving**
 
-**2)	Create a Docker container with your model **
+**2)	Create a Docker container with your model**
 
 **3)	Deploy it with Kubernetes into a cloud platform, i.e. Google Cloud or Amazon AWS.**
 
