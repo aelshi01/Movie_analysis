@@ -85,3 +85,14 @@ TensorFlow for model creation: TF is an open-source library for ml and deep lear
 
 **Kubernetes for production deployment:**  open source software used for automating scaling, deployment and managing everything on your web services in the cloud (containerised application – docker).
 
+## Resources
+
+**[1]** Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts, Learning Word Vectors for Sentiment Analysis, Stanford University, Stanford, CA 94305
+
+**[2]** Warda Ruheen, Nishat Sultana, Zakia Zaman, Predicting IMDb Rating of Movies by Machine Learning Techniques
+Conference Paper · July 2019 DOI: 10.1109/ICCCNT45670.2019.8944604
+
+**[3]** Alex Krizhevsky Ilya Sutskever Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, University of Toronto University of Toronto University of Toronto, kriz@cs.utoronto.ca ilya@cs.utoronto.ca hinton@cs.utoronto.ca
+
+
+
