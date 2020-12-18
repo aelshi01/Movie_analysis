@@ -2,6 +2,7 @@
 ## Gather Data
 
 **1) The data gathered is the one as suggested by the Feedstock team**
+
 **2) Kaggle – imdb dataset in pandas data frame**
 
 ## Explore data
