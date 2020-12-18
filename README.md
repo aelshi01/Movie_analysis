@@ -1,8 +1,8 @@
 # Movie_analysis
 ## Gather Data
 
-1) The data gathered is the one as suggested by the Feedstock team
-2) Kaggle – imdb dataset in pandas data frame
+**1) The data gathered is the one as suggested by the Feedstock team**
+**2) Kaggle – imdb dataset in pandas data frame**
 
 ## Explore data
 
@@ -10,12 +10,12 @@ I have analysed the data using Keras and TensorFlow.
 
 I will be using the following metrics to be able to make sense of our data:
 
-1.	Number of samples: Total number of examples you have in the data.
-2.	Number of classes: Total number of topics or categories in the data.
-3.	Number of samples per class: Number of samples per class (topic/category). In a balanced dataset, all classes will have a similar number of samples; in an imbalanced dataset, the number of samples in each class will vary widely.
-4.	Number of words per sample: Median number of words in one sample.
-5.	Frequency distribution of words: Distribution showing the frequency (number of occurrences) of each word in the dataset.
-6.	Distribution of sample length: Distribution showing the number of words per sample in the dataset.
+**1.	Number of samples:** Total number of examples you have in the data.
+**2.	Number of classes:** Total number of topics or categories in the data.
+**3.	Number of samples per class:** Number of samples per class (topic/category). In a balanced dataset, all classes will have a similar number of samples; in an imbalanced dataset, the number of samples in each class will vary widely.
+**4.	Number of words per sample:** Median number of words in one sample.
+**5.	Frequency distribution of words:** Distribution showing the frequency (number of occurrences) of each word in the dataset.
+**6.	Distribution of sample length:** Distribution showing the number of words per sample in the dataset.
 
 
 ## Model
@@ -34,8 +34,8 @@ In addition, having decided to use MLP for our model we know that machine learni
 
 To do this I will be doing the following two process on the dataset:
 
-1.	Tokenisation
-2.	Vectorisation
+**1.	Tokenisation**
+**2.	Vectorisation**
 
 Lastly, for the preprocessing phase I will then perform some feature selection to optimize for performance. 
 
@@ -61,8 +61,16 @@ On the cloud, using something like the AI platform offered by google, which make
 
 TensorFlow was developed for production and it provides a solution for model deployment - TensorFlow Serving. Basically, there are three steps:
 
-1.	Export your model for serving
-2.	Create a Docker container with your model 
-3.	Deploy it with Kubernetes into a cloud platform, i.e. Google Cloud or Amazon AWS.
+**1.	Export your model for serving**
+**2.	Create a Docker container with your model **
+**3.	Deploy it with Kubernetes into a cloud platform, i.e. Google Cloud or Amazon AWS.**
 
 The first two step is done locally for testing and iterative improvements.  The last stage is when we transfer it from local to public by hosting it in the cloud.
+TensorFlow for model creation: TF is an open-source library for ml and deep learning models.
+
+**Docker for containerization:** is used to have all the dependencies and packages needed for local or cloud deployment.
+
+**TensorFlow Serving for a model hosting:**  hosts a model and provide remote access to it.
+
+**Kubernetes for production deployment:**  open source software used for automating scaling, deployment and managing everything on your web services in the cloud (containerised application – docker).
+
