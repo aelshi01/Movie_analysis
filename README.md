@@ -68,7 +68,9 @@ On the cloud, using something like the AI platform offered by google, which make
 TensorFlow was developed for production and it provides a solution for model deployment - TensorFlow Serving. Basically, there are three steps:
 
 **1)	Export your model for serving**
+
 **2)	Create a Docker container with your model **
+
 **3)	Deploy it with Kubernetes into a cloud platform, i.e. Google Cloud or Amazon AWS.**
 
 The first two step is done locally for testing and iterative improvements.  The last stage is when we transfer it from local to public by hosting it in the cloud.
